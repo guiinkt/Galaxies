@@ -12,6 +12,20 @@ body {
     padding: 72px 104px;
 }
 
+header h1 {
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 72px;
+    color: #02799D;
+}
+
+header p {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    color: #E1E1E6;
+}
+
 main {
     display: grid;
     grid-template-columns: repeat(3, 370px);
